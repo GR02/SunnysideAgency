@@ -1,0 +1,12 @@
+header {background-image:url(../images/mobile/image-header.jpg); 
+    width: 100vw; 
+    background-size: 100vh;}
+
+header h1 {font-size: 1.5rem; 
+    padding-left: 1rem; 
+    padding-top: 1rem;}
+
+header h2 {font-size: 4.5rem; 
+    padding-top: 3rem;
+    padding-bottom: 30rem; 
+    text-align: center;}
