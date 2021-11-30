@@ -28,8 +28,6 @@
 .cereja {background-image: url(../images/mobile/image-graphic-design.jpg);
     width: 100vw; background-size: 100vw; background-repeat: no-repeat;}
 
-
-
 .title__cereja {
     font-size: 2rem; 
     text-align: center; 
@@ -37,11 +35,30 @@
     padding-bottom: 1rem; 
     font-weight: bold;
     padding-top: 25rem;
-    color: rgb(34, 85, 73);}
+    color: rgb(35, 85, 74);}
 
-.texto__cereja {color: rgb(34, 85, 73);
+.texto__cereja {color: rgb(35, 85, 74);
     font-size: 1.3rem; 
     text-align: center; 
     padding-left: 1.5rem; 
     padding-right: 1.5rem;
     padding-bottom: 2.5rem;}
+
+.laranja {background-image: url(../images/mobile/image-photography.jpg);
+    width: 100vw; background-size: 100vw; background-repeat: no-repeat;}
+
+    .title__cereja {
+        font-size: 2rem; 
+        text-align: center; 
+        padding-top: 2rem;
+        padding-bottom: 1rem; 
+        font-weight: bold;
+        padding-top: 25rem;
+        color: rgb(27, 84, 108)}
+    
+    .texto__cereja {color: rgb(27, 84, 108);
+        font-size: 1.3rem; 
+        text-align: center; 
+        padding-left: 1.5rem; 
+        padding-right: 1.5rem;
+        padding-bottom: 2.5rem;}
