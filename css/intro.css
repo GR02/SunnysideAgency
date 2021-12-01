@@ -85,3 +85,12 @@
 
 .comentarios h3 { padding-bottom: 2.5rem;
      color: slategrey;}
+
+
+* {box-sizing: border-box;}
+.row {display: flex;}
+         
+       
+.column {flex: 25%;
+        padding: 0;}
+
