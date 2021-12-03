@@ -1,0 +1,6 @@
+.rodape__social { display: flex; flex-direction: row; justify-content: space-around; padding-right: 5px };
+
+
+.pe { display: flex;flex-direction: row; color: red; align-items: center;}
+
+footer {background-color: aqua;}

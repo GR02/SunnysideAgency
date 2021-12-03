@@ -6,31 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sunnyside | Home</title>
-  <link href= "css/reset.css" rel="stylesheet">
+  <link href="css/reset.css" rel="stylesheet">
   <link href="css/header.css" rel="stylesheet">
   <link href="css/intro.css" rel="stylesheet">
+  <link href="css/rodape.css" rel="stylesheet">
 
-<!--<style>
-* {box-sizing: border-box;}
-
-.row {display: flex;}
-    
-  
-.column {flex: 25%;
-        padding: 0;}
-
-</style>
-
-<style>
-  * {box-sizing: border-box;}
-  
-  .row2 {display: flex;}
-      
-    
-  .column2 {flex: 25%;
-          padding: 0;}
-  
-  </style>-->
 </head>
 
 <body>
@@ -48,7 +28,7 @@
   <main>
 
     
-    <img src="images/mobile/image-transform.jpg" alt="ovo" class="ovo">
+    <img src="images/mobile/image-transform.jpg" alt="ovo" class="ovo" id="about">
     <h1 class="title">Transform your brand</h1>
     <p class="texto1">We are a full-service creative agency soecializing in helping brans grow fast. 
       Engage your clients through compelling visuals that do most of the marketing for you.</p>
@@ -62,7 +42,7 @@
 
 
   <div class="cereja">
-  <h1 class="title__cereja">Graphic Design</h1>
+  <h1 class="title__cereja" id="service">Graphic Design</h1>
   <p class="texto__cereja">Great design makes you memorable.
      We deliver artwork that underscores your brand message and captures potential clients’ attention.</p>
   </div>
@@ -74,7 +54,7 @@
   </div>
 
   <section class="comentarios">
-    <h1>Client testimonials</h1>
+    <h1 id="projects">Client testimonials</h1>
 
     <img src="images/image-emily.jpg" alt="Emily" class="emily">
     <p class="texto__comentarios">We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit.</p>
@@ -103,9 +83,24 @@
       <img src="images/mobile/image-gallery-orange.jpg" alt="metadinha" style="width:100%">
     </div>
     
-
   </main>
 
+ <footer>
+  <div class="pe">
+  <h1 class="rodape__tt">sunnyside</h1>
+    <a href="#about">About</a>
+    <a href="#service">Services</a>
+    <a href="#projects">Projects</a>
+  </div>
 
+   <nav class="rodape container">
+     <ul class="rodape__social">
+       <li ><a href=""><img src="images/icon-facebook.svg" alt="facebook logo"  class="rodape__midia"></a></li>
+       <li ><a href=""><img  src="images/icon-instagram.svg" alt="instagram logo"  class="rodape__midia"></a></li>
+       <li ><a href=""><img  src="images/icon-twitter.svg" alt="twitter logo"  class="rodape__midia"></a></li>
+       <li ><a href=""><img  src="images/icon-pinterest.svg" alt="pinterest logo"  class="rodape__midia"></a></li>
+     </ul>
+   </nav>
+  </footer>
 </body>
 </html>
