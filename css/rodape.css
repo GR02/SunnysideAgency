@@ -1,6 +1,10 @@
-.rodape__social { display: flex; flex-direction: row; justify-content: space-around; padding-right: 5px };
+.rodape__social { display: flex; 
+    flex-direction: row; 
+    justify-content: space-around; 
+    padding-right: 5px };
 
+.rodape__text { display: inline-block;
+    
+    text-align: center;}
 
-.pe { display: flex;flex-direction: row; color: red; align-items: center;}
-
-footer {background-color: aqua;}
+footer {background-color: rgb(35, 85, 74);}
