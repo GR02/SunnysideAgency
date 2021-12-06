@@ -58,20 +58,20 @@
     padding-right: 1.5rem;
     padding-bottom: 2.5rem;}
 
-.laranja {background-image: url(../images/mobile/image-photography.jpg);
+.photography {background-image: url(../images/mobile/image-photography.jpg);
     width: 100vw; 
     background-size: 100vw; 
     background-repeat: no-repeat;}
 
-.title__laranja { font-size: 2rem; 
+.title__photography { font-size: 2rem; 
     text-align: center; 
     padding-top: 2rem;
     padding-bottom: 1rem; 
     font-weight: bold;
     padding-top: 25rem;
-    color: var(--parte-laranja: rgb (27,84,108))}
+    color: #084a48}
     
-.texto__laranja {color: var(--parte-laranja: rgb (27,84,108));
+.texto__photography {color: #084a48;
         font-size: 1.3rem; 
         text-align: center; 
         padding-left: 1.5rem; 
