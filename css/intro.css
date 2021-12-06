@@ -78,25 +78,25 @@
         padding-right: 1.5rem;
         padding-bottom: 2.5rem;}
 
-.comentarios {text-align: center;}
+.testimonials {text-align: center;}
 
-.comentarios h1 {padding-top: 1.5rem; 
+.title__testimonials {padding-top: 1.5rem; 
     padding-bottom: 1.5rem; 
     text-transform: uppercase; 
     font-size: 1rem; 
-    color: var(--textos: grey;);}
+    color: #708090}
 
 .emily,.thomas, .jennie{border-radius: 50%;}
 
-.texto__comentarios { padding: 2rem; 
-    color: var(--textos: grey;);}
+.texto__testimonials{ padding: 2rem; 
+    color: #708090}
 
-.nome__comentarios {padding-bottom: 1rem; 
+.nome__testimonials {padding-bottom: 1rem; 
     font-weight: bolder; 
     font-size: 1rem;}
 
-.comentarios h3 { padding-bottom: 2.5rem;
-     color: var(--textos: grey);}
+.cargo__testimonials { padding-bottom: 2.5rem;
+     color:#708090}
 
 
 * {box-sizing: border-box;}
