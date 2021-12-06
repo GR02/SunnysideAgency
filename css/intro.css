@@ -35,23 +35,23 @@
     padding-left: 1.5rem; 
     padding-right: 1.5rem;}
 
-.laranja {width: 100vw;}
+/*.laranja {width: 100vw;}*/
 
-.cereja {background-image: url(../images/mobile/image-graphic-design.jpg);
+.design {background-image: url(../images/mobile/image-graphic-design.jpg);
     width: 100vw; 
     background-size: 100vw; 
     background-repeat: no-repeat;}
 
-.title__cereja {
+.title__design {
     font-size: 2rem; 
     text-align: center; 
     padding-top: 2rem;
     padding-bottom: 1rem; 
     font-weight: bold;
     padding-top: 25rem;
-    color: rgb(35, 85, 74);}
+    color: #1a3e44;}
 
-.texto__cereja {color: rgb(35, 85, 74);
+.texto__design {color: #1a3e44;
     font-size: 1.3rem; 
     text-align: center; 
     padding-left: 1.5rem; 
