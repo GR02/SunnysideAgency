@@ -3,13 +3,15 @@ header {background-image:url(../images/mobile/image-header.jpg);
     background-size: 100% 100%; 
     background-repeat: no-repeat;}
 
-header h1 {font-size: 1.5rem; 
+.title__principal {font-size: 1.5rem; 
     padding-left: 1rem; 
     padding-top: 1rem; 
     padding-bottom: 3rem; 
     color: white;}
 
-header h2 {font-size: 4.5rem; 
+.title__secundario {font-size: 4.5rem; 
     padding-top: 3rem;
     padding-bottom: 3rem; 
     text-align: center; color: white;}
+
+.flecha {display: flex; padding-left: 10rem; padding-bottom: 9rem;}
