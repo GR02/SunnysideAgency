@@ -1,5 +1,11 @@
 footer {background-color: #91d4c3;}
 
+.footer__title {font-size: 1.5rem; 
+    text-align: center; 
+    padding-top: 1rem; 
+    padding-bottom: 1rem; 
+    font-weight: bold; 
+    color: #2b7666;}
 
 .footer__social { display: flex; flex-direction: row;  padding-left: 7.3rem;}
 
