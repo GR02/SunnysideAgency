@@ -1,10 +1,9 @@
-.rodape__social { display: flex; 
-    flex-direction: row; 
-    justify-content: space-around; 
-    padding-right: 5px };
+footer {background-color: #91d4c3;}
 
-.rodape__text { display: inline-block;
-    
-    text-align: center;}
+.
 
-footer {background-color: rgb(35, 85, 74);}
+.footer__container {text-align: auto;}
+
+.footer__social { display: flex; flex-direction: row;  padding-left: 7.3rem;}
+
+.footer__icon {padding-right: 1.5rem}
