@@ -15,7 +15,7 @@ Landing page de uma agência de publicidade.
 
 ## Desafio
 ```
-Cria um site mobile first.
+Cria um site voltado para mobile.
 ```
 
 ## Como Rodar 
