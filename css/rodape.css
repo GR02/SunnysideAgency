@@ -4,7 +4,8 @@ footer {background-color: #91d4c3;}
     text-align: center; 
     padding-top: 1rem; 
     padding-bottom: 1rem; 
-    font-weight: bold; 
+    font-weight: bold;
+    font-size: 30px; 
     color: #2b7666;}
 
 .footer__about {display: flex;flex-direction: row; padding-left: 4.7rem; padding-bottom: 1.5rem;}
@@ -13,4 +14,4 @@ footer {background-color: #91d4c3;}
 
 .footer__social { display: flex; flex-direction: row;  padding-left: 7.3rem;}
 
-.footer__icon {padding-right: 1.5rem}
+.footer__icon {padding-right: 1.5rem; padding-bottom: 1rem;}
