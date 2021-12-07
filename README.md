@@ -4,7 +4,7 @@
 ## Descrição do Projeto
 
 ```bash
-Landing page.
+Landing page de uma agência de publicidade.
 ```
 ![made-with-CCS3](https://img.shields.io/badge/Made%20with-CSS3-1572b6.svg) 
 ![made-with-HTML5](https://img.shields.io/badge/Made%20with-HTML5-e34f26.svg) 
