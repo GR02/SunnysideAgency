@@ -1,3 +1,5 @@
+/*SECTION BRAND*/
+
 .ovo {width: 100vw;}
 
 .title__brand {text-transform: uppercase; 
@@ -20,6 +22,9 @@
     padding-bottom: 1.5rem;
     font-weight: bold;}
 
+
+/*SECTION AUDIENCE*/
+
 .taça__rosa {width: 100vw;}
 
 .title__audience {text-transform: uppercase; 
@@ -35,7 +40,7 @@
     padding-left: 1.5rem; 
     padding-right: 1.5rem;}
 
-/*.laranja {width: 100vw;}*/
+/*SECTION DESIGN*/
 
 .design {background-image: url(../images/mobile/image-graphic-design.jpg);
     width: 100vw; 
@@ -58,6 +63,8 @@
     padding-right: 1.5rem;
     padding-bottom: 2.5rem;}
 
+/*SECTION PHOTOGRAPHY*/
+
 .photography {background-image: url(../images/mobile/image-photography.jpg);
     width: 100vw; 
     background-size: 100vw; 
@@ -77,6 +84,8 @@
         padding-left: 1.5rem; 
         padding-right: 1.5rem;
         padding-bottom: 2.5rem;}
+
+/*SECTION TESTIMONIALS*/
 
 .testimonials {text-align: center;}
 
@@ -98,6 +107,7 @@
 .cargo__testimonials { padding-bottom: 2.5rem;
      color:#708090}
 
+/*IMAGENS ANTES DO FOOTER*/
 
 * {box-sizing: border-box;}
 .row {display: flex;}
@@ -106,3 +116,54 @@
 .column {flex: 25%;
         padding: 0;}
 
+/*CSS DESKTOP*/
+
+@media screen and (min-width:784px) { 
+
+.ovo {width: 50vw; 
+    position: absolute; 
+    margin-left: 50rem;
+    display: none;} 
+
+.title__brand {text-transform: uppercase; 
+    font-size: 1.5rem; 
+    text-align: left; 
+    padding-top: 2rem;
+    padding-bottom: 1rem; 
+    font-weight: bold;
+    padding-left: 1.4rem;}
+
+.texto__brand {color:#708090; 
+    font-size: 1.3rem; 
+    text-align: left; 
+    padding-left: 1.5rem; 
+    padding-right: 1.5rem; 
+    display: block;}
+
+.learn__more {color: #000000; 
+    font-size: 1.5rem;
+    text-align: left; 
+    padding-top: 1rem; 
+    padding-bottom: 1.5rem;
+    font-weight: bold; 
+    padding-left: 1.4rem;}
+    
+.taça__rosa {width: 50vw;}
+
+.title__audience {text-transform: uppercase; 
+    font-size: 1.5rem; 
+    text-align: left; 
+    padding-top: 2rem;
+    padding-bottom: 1rem; 
+    font-weight: bold; 
+    padding-left: 1.4rem;
+    }
+
+.texto__audience {color:#708090; 
+    font-size: 1.3rem; 
+    text-align: left; 
+    padding-left: 1.5rem; 
+    padding-right: 1.5rem; 
+    padding-left: 1.4rem;
+    }
+}
