@@ -120,50 +120,45 @@
 
 @media screen and (min-width:784px) { 
 
-.ovo {width: 50vw; 
-    position: absolute; 
-    margin-left: 50rem;
-    display: none;} 
+.container {display: flex; align-items: center;}      
+
+.ovo {width: 50vw;} 
 
 .title__brand {text-transform: uppercase; 
-    font-size: 1.5rem; 
+    font-size: 2.5rem; 
     text-align: left; 
     padding-top: 2rem;
-    padding-bottom: 1rem; 
+    padding-bottom: 2.5rem; 
     font-weight: bold;
-    padding-left: 1.4rem;}
+    padding-left: 1.4rem; }
 
 .texto__brand {color:#708090; 
-    font-size: 1.3rem; 
+    font-size: 2rem; 
     text-align: left; 
     padding-left: 1.5rem; 
-    padding-right: 1.5rem; 
-    display: block;}
+    padding-right: 1.5rem;}
 
 .learn__more {color: #000000; 
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     text-align: left; 
-    padding-top: 1rem; 
+    padding-top: 2rem; 
     padding-bottom: 1.5rem;
     font-weight: bold; 
     padding-left: 1.4rem;}
-    
+     
 .taça__rosa {width: 50vw;}
 
 .title__audience {text-transform: uppercase; 
-    font-size: 1.5rem; 
+    font-size: 2.5rem; 
     text-align: left; 
     padding-top: 2rem;
-    padding-bottom: 1rem; 
+    padding-bottom: 2.5rem; 
     font-weight: bold; 
-    padding-left: 1.4rem;
-    }
+    padding-left: 1.4rem;}
 
 .texto__audience {color:#708090; 
-    font-size: 1.3rem; 
+    font-size: 2rem; 
     text-align: left; 
-    padding-left: 1.5rem; 
-    padding-right: 1.5rem; 
-    padding-left: 1.4rem;
+    padding-left: 1.5rem;
     }
 }
