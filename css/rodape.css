@@ -8,10 +8,16 @@ footer {background-color: #91d4c3;}
     font-size: 30px; 
     color: #2b7666;}
 
-.footer__about {display: flex;flex-direction: row; padding-left: 4.7rem; padding-bottom: 1.5rem;}
+.footer__about {display: flex;flex-direction: row; padding-left: 6rem; padding-bottom: 1.5rem;}
 
-.footer__end { padding-left: 1.5rem; color: #2b7666;}
+.footer__end { padding-left: 0.5rem; color: #2b7666;}
 
-.footer__social { display: flex; flex-direction: row;  padding-left: 7.3rem;}
+.footer__social { display: flex; flex-direction: row;  padding-left: 6.8rem;}
 
 .footer__icon {padding-right: 1.5rem; padding-bottom: 1rem;}
+
+@media screen and (min-width:784px) { 
+
+.footer__end {padding-left: 16rem; padding-right: 0rem;}
+
+.footer__social {padding-left: 37rem;} }

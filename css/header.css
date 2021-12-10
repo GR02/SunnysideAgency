@@ -14,10 +14,10 @@ header {background-image:url(../images/mobile/image-header.jpg);
     padding-bottom: 3rem; 
     text-align: center; color: #ffffff;}
 
-.flecha {display: flex; padding-left: 10rem; padding-bottom: 9rem;}
+.flecha {display: flex; padding-left: 10.8rem; padding-bottom: 9rem;}
 
 @media screen and (min-width:784px) { 
     header {background-image: url(../images/desktop/image-header.jpg);} 
-    .flecha {display: flex; padding-left: 40rem;padding-bottom: 15rem;}
+    .flecha {display: flex; padding-left: 40.8rem;padding-bottom: 15rem;}
     .title__principal {font-size: 2.5rem; font-weight: bold;}
     .title__secundario {font-size: 7rem;}}
