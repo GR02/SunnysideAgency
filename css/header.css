@@ -19,5 +19,5 @@ header {background-image:url(../images/mobile/image-header.jpg);
 @media screen and (min-width:784px) { 
     header {background-image: url(../images/desktop/image-header.jpg);} 
     .flecha {display: flex; padding-left: 40rem;padding-bottom: 15rem;}
-    .title__principal {font-size: 1.5rem; font-weight: bold;}
+    .title__principal {font-size: 2.5rem; font-weight: bold;}
     .title__secundario {font-size: 7rem;}}
