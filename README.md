@@ -1,5 +1,5 @@
 # SunnysideAgency
->status: concluiodo
+>status: concluido
 
 ## Descrição do Projeto
 
@@ -21,7 +21,7 @@ Cria um site voltado para mobile.
 ## Como Rodar 
 
 ```
-Acesse o link: https://covil-sooty.vercel.app/
+Acesse o link: https://sunnyside-agency-five.vercel.app/
 ```
 
 ## License
